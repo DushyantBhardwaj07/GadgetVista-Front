@@ -70,10 +70,10 @@ export default function AccountPage() {
     
         try {
           await axios.put('/api/address', data);
-          toast.success('Address saved successfully 🎉', { position: toast.POSITION.TOP_RIGHT });
+          toast.success('Address saved successfully', { position: toast.POSITION.TOP_RIGHT });
         } catch (error) {
           console.error('Error saving address:', error);
-          toast.error('Failed to save address 😔', { position: toast.POSITION.TOP_RIGHT });
+          toast.error('Failed to save address', { position: toast.POSITION.TOP_RIGHT });
         }
       }
     
