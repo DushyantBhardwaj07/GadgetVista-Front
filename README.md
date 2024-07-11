@@ -1,40 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GadgetVista-Front 🛒🌐
 
-## Getting Started
+## Overview
+Welcome to the **GadgetVista-Front** repository! This project is the front-end part of full-stack e-commerce application "GadgetVista". It provides a user-friendly interface for browsing products, making purchases, and managing user accounts.
 
-First, run the development server:
+## Features
+- 🌐 Responsive design using Tailwind CSS
+- 🛒 Product browsing and search functionality
+- 🛍️ Add to cart and checkout process
+- 📦 Product categories and filtering
+- 🌟 Featured products and latest additions
+- 📱 Mobile-friendly design
+- 💳 Stripe integration for secure payments
+- 🛡️ Authentication and user account management
+- 🌟 Wishlist functionality
+- 🔍 Search functionality across products
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Live Demo
+Explore the live demo of GadgetVista-Front [here](https://gadget-vista-front.vercel.app/).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Screenshots
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Homepage
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/be81fdc6-c510-480d-b264-2f1a1f9f8879">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### All Products Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/88a8bdc1-e2c2-4ae7-953d-5ad737ace3ca">
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Categories Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/ef39bc4a-0f88-4b0d-ae0d-37adce9296d8">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Wishlist Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/c12e6e28-deb6-4085-bdeb-756adcb93752">
 
-## Learn More
+### Orders Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/740bc265-8b21-4ab4-9d81-184472920540">
 
-To learn more about Next.js, take a look at the following resources:
+### Shopping Cart Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/17202cd9-1eeb-4e2f-a1eb-359e116c94f8">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Stripe Checkout
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/b6ab8269-707e-4992-81de-024e2bce800c">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Single Product Page
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/e7f2b385-8a20-4425-b748-2741edc59310">
 
-## Deploy on Vercel
+### Search Functionality
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Front/assets/100109472/185d37da-a5dd-4692-b3a7-151dede770a1">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Installation
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/GadgetVista-Front.git
+   ```
+2. **Navigate to the project directory:**
+      ```sh
+      cd GadgetVista-Front
+   ```
+3. **Install dependencies:**
+      ```sh
+      npm install
+   ```
+4. **Run the development server:**
+   ```sh
+   npm run dev
+   ```
+5. **Open your browser:**
+   Visit http://localhost:3000 to view the front application panel.
+
+
+   
+
